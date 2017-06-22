@@ -7,11 +7,19 @@
 /*.word-color{
     color: black;
 }*/
-.row{
+.text-size{
+    padding: 8%;
+    width: 50%;
+    color: white;
+}
+.background-margin {
     background-color: grey;
     padding: 2%;
     margin: -2%;
 }
+
+
+
 
 .thick-green-border {
     border-color: silver;
@@ -23,4 +31,11 @@
 .smaller-image {
     width: 71%;
     height: 363px;
+    padding: 10px
   }
+
+.background-padding {
+    background-color: rgba(234, 233, 233, 0.95);
+    padding: 2%;
+    margin: -2%;
+}
